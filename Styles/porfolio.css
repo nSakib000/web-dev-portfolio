@@ -216,3 +216,26 @@ nav ul{
     font-size: 18px;
     color: #757575;
 }
+
+/*footer section*/
+footer{
+    display: flex;
+    padding: 130px 230px;
+    gap: 100px;
+}
+.footer-column{
+    width: 50%;
+}
+
+footer input[type = "text"],footer input[type = "email"],footer textarea{
+    height: 20px;
+    width: 100%;
+    margin-bottom: 20px;
+    border-radius: 5px;
+    background-color: #ffffff;
+    display: block;
+    font-size: 16px;
+    padding: 10px 20px;
+    border: none;
+
+}
