@@ -141,6 +141,7 @@ nav ul{
 
 .text-center{
     text-align: center;
+    margin-top: 20px;
 }
 
 .skills-container{
@@ -222,6 +223,7 @@ footer{
     display: flex;
     padding: 130px 230px;
     gap: 100px;
+    margin-top: 100px;
 }
 .footer-column{
     width: 50%;
